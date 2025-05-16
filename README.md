@@ -1,6 +1,5 @@
 ## Hi there 👋
-# 💫 About Me:
-🌱I'm currently learning->growing
+🌱m currently learning...->growing💫
 
 
 # 💻 Tech Stack:
